@@ -1,6 +1,6 @@
 # OLED-Moving-Eyes-Arduino
 OLED Moving Eye Examples - Tutorial Showing How to Move Eyeballs with Arduino Sketch
-Tutorial at: https://ctmprojectsblog.wordpress.com/2022/02/10/arduino-oled-eyes/
+at: https://ctmprojectsblog.wordpress.com/2022/02/10/arduino-oled-eyes/
 
 The Arduio Sketch Example titled 'OLED_Moving_Eyes_3_Arrays' already has three C File Arrays in the sketch
 You will be able to run this sketch on an Arduino UNO or MEGA
