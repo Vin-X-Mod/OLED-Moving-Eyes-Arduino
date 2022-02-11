@@ -15,3 +15,5 @@ https://lvgl.io/tools/imageconverter
 
 Image to C Array Converter Tutorial: 
 https://ctmprojectsblog.wordpress.com/2022/02/10/arduino-oled-eyes/
+
+As a BONUS added a Sketch just for Arduino MEGA, it is too large to use on an Arduino UNO.
