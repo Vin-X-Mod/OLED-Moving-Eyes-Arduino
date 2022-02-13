@@ -19,3 +19,5 @@ https://ctmprojectsblog.wordpress.com/2022/02/10/arduino-oled-eyes/
 As a BONUS, added a Sketch just for Arduino MEGA that is too large to use on an Arduino UNO.
 
 Also added an example moving GIF that shows what you will see on your 128x64 OLED Display.
+
+Added Example Sketch for ARDUINO LOGO Splash Screen that will last 5 seconds on OLED Display.
