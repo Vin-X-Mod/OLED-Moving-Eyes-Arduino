@@ -23,3 +23,5 @@ As a BONUS, added a Sketch just for Arduino MEGA that is too large to use on an 
 Also added an example moving GIF that shows what you will see on your 128x64 OLED Display.
 
 Added Example Sketch for ARDUINO LOGO Splash Screen that will last 5 seconds on OLED Display.
+
+![OLED YouTube Video Github](https://user-images.githubusercontent.com/99458302/153982496-928ac225-e63b-4820-a838-be9d655d8ba9.jpg)
