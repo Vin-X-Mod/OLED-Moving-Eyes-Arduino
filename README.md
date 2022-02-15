@@ -1,5 +1,7 @@
 # OLED-Moving-Eyes-Arduino
 
+YouTube OLED 'Moving Eyes' Arduino Tutorial Video: https://youtu.be/rb1CdDpUVDA
+
 OLED Moving Eye Examples - Tutorial Showing How to Move Eyeballs with Arduino Sketch: 
 https://ctmprojectsblog.wordpress.com/2022/02/10/arduino-oled-eyes/
 
