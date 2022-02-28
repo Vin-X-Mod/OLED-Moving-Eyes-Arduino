@@ -29,3 +29,8 @@ Added Example Sketch for ARDUINO LOGO Splash Screen that will last 5 seconds on 
 GrabCAD Solidworks Model for OLED Arduino 3D-Printed Test Platform
 
 https://grabcad.com/library/arduino-breadboard-oled-stand-1
+
+![Install ACE128 Library](https://user-images.githubusercontent.com/99458302/155921513-6394c4c4-d088-415d-a979-0bae3ace1503.jpg)
+![ACE128 Library File Hard-Drive Search](https://user-images.githubusercontent.com/99458302/155921533-dbf1dc98-3af6-496e-93df-c56bcb6d322e.jpg)
+![ACE128 Configurable Defile Statements](https://user-images.githubusercontent.com/99458302/155921549-67a31be9-be72-496d-a8ff-96efd5e4ee8f.jpg)
+![Save ACE128 Close Notepad](https://user-images.githubusercontent.com/99458302/155921561-a5a4c51a-0d34-484a-8f9f-3ee5e5d2b76c.jpg)
